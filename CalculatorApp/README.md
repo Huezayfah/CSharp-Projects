@@ -1,2 +1,7 @@
-# CSharp-Projects
-a small collections of applications I've made using C#
+# Calculator App
+- Resizable
+- Works with numpad/keyboard
+- Square Root Function
+- Negative/Positive Switch
+- Backspace Function
+
